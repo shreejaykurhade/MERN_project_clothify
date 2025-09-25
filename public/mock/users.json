@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "John Customer",
+    "name": "Shreejay Kurhade",
     "email": "customer@example.com",
     "role": "customer",
     "joinDate": "2024-01-15",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Jane Vendor",
+    "name": "Shravani Parte",
     "email": "vendor@example.com",
     "role": "vendor",
     "joinDate": "2024-02-01",
