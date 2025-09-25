@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+    "price": 199.99,
+    "category": "Electronics",
+    "stock": 25,
+    "rating": 4.5,
+    "reviews": 128,
+    "image": "/placeholder.svg?height=300&width=300",
+    "featured": true,
+    "vendorId": 1
+  },
+  {
+    "id": 2,
+    "name": "Organic Cotton T-Shirt",
+    "description": "Comfortable and sustainable organic cotton t-shirt available in multiple colors.",
+    "price": 29.99,
+    "category": "Clothing",
+    "stock": 50,
+    "rating": 4.2,
+    "reviews": 89,
+    "image": "/placeholder.svg?height=300&width=300",
+    "featured": false,
+    "vendorId": 2
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "description": "Advanced fitness tracking with heart rate monitor, GPS, and smartphone integration.",
+    "price": 299.99,
+    "category": "Electronics",
+    "stock": 15,
+    "rating": 4.7,
+    "reviews": 203,
+    "image": "/placeholder.svg?height=300&width=300",
+    "featured": true,
+    "vendorId": 1
+  },
+  {
+    "id": 4,
+    "name": "Artisan Coffee Beans",
+    "description": "Premium single-origin coffee beans roasted to perfection. 1lb bag.",
+    "price": 24.99,
+    "category": "Food & Beverage",
+    "stock": 100,
+    "rating": 4.8,
+    "reviews": 156,
+    "image": "/placeholder.svg?height=300&width=300",
+    "featured": false,
+    "vendorId": 3
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with lumbar support and adjustable height.",
+    "price": 449.99,
+    "category": "Furniture",
+    "stock": 8,
+    "rating": 4.3,
+    "reviews": 67,
+    "image": "/placeholder.svg?height=300&width=300",
+    "featured": false,
+    "vendorId": 4
+  },
+  {
+    "id": 6,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+    "price": 34.99,
+    "category": "Sports & Outdoors",
+    "stock": 75,
+    "rating": 4.6,
+    "reviews": 234,
+    "image": "/placeholder.svg?height=300&width=300",
+    "featured": true,
+    "vendorId": 2
+  }
+]

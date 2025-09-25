@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "John Customer",
+    "email": "customer@example.com",
+    "role": "customer",
+    "joinDate": "2024-01-15",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Jane Vendor",
+    "email": "vendor@example.com",
+    "role": "vendor",
+    "joinDate": "2024-02-01",
+    "status": "active",
+    "storeId": 1
+  },
+  {
+    "id": 3,
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "role": "admin",
+    "joinDate": "2024-01-01",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Content Moderator",
+    "email": "moderator@example.com",
+    "role": "moderator",
+    "joinDate": "2024-01-10",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Inventory Manager",
+    "email": "inventory@example.com",
+    "role": "inventory",
+    "joinDate": "2024-01-20",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Delivery Agent",
+    "email": "delivery@example.com",
+    "role": "delivery",
+    "joinDate": "2024-02-15",
+    "status": "active"
+  }
+]

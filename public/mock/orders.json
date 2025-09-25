@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1001,
+    "customerId": 1,
+    "customerName": "John Customer",
+    "customerEmail": "customer@example.com",
+    "items": [
+      {
+        "productId": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "price": 199.99,
+        "quantity": 1
+      }
+    ],
+    "total": 199.99,
+    "status": "pending",
+    "orderDate": "2024-03-15T10:30:00Z",
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "deliveryAgentId": 6
+  },
+  {
+    "id": 1002,
+    "customerId": 1,
+    "customerName": "John Customer",
+    "customerEmail": "customer@example.com",
+    "items": [
+      {
+        "productId": 3,
+        "name": "Smart Fitness Watch",
+        "price": 299.99,
+        "quantity": 1
+      },
+      {
+        "productId": 6,
+        "name": "Stainless Steel Water Bottle",
+        "price": 34.99,
+        "quantity": 2
+      }
+    ],
+    "total": 369.97,
+    "status": "shipped",
+    "orderDate": "2024-03-10T14:20:00Z",
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "deliveryAgentId": 6
+  }
+]
