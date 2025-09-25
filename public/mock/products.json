@@ -8,7 +8,7 @@
     "stock": 30,
     "rating": 4.6,
     "reviews": 112,
-    "image": "/placeholder.svg?height=300&width=300",
+    "image": "https://image.hm.com/assets/hm/01/22/012296fb34bf6032135318932fc106e28236b54c.jpg?imwidth=1260",
     "featured": true,
     "vendorId": 1
   },
@@ -21,7 +21,7 @@
     "stock": 50,
     "rating": 4.2,
     "reviews": 89,
-    "image": "/placeholder.svg?height=300&width=300",
+    "image": "https://image.hm.com/assets/hm/8b/b5/8bb5565ca9fb9cfcbb2ba1e8cc12467c9b300c89.jpg?imwidth=1260",
     "featured": false,
     "vendorId": 2
   },
@@ -34,7 +34,7 @@
     "stock": 40,
     "rating": 4.5,
     "reviews": 145,
-    "image": "/placeholder.svg?height=300&width=300",
+    "image": "https://cloud.camper.com/is/image/JGVzaG9wMDNtYmlnZ3JleSQ=/AU00006-002_LF.jpg",
     "featured": true,
     "vendorId": 1
   },
@@ -47,7 +47,7 @@
     "stock": 35,
     "rating": 4.7,
     "reviews": 98,
-    "image": "/placeholder.svg?height=300&width=300",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7k6UIAuctHJ-PKIAv8CaPGjtFs7TPfvvY9w&s",
     "featured": false,
     "vendorId": 3
   },
@@ -60,7 +60,7 @@
     "stock": 20,
     "rating": 4.4,
     "reviews": 77,
-    "image": "/placeholder.svg?height=300&width=300",
+    "image": "https://www.jackjones.in/cdn/shop/files/103231901_g6.jpg?v=1745323006&width=1080",
     "featured": false,
     "vendorId": 4
   },
@@ -73,7 +73,7 @@
     "stock": 60,
     "rating": 4.6,
     "reviews": 182,
-    "image": "/placeholder.svg?height=300&width=300",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRD2Tep5BaS2fwkWb5k9MWw1ky48SbuIFiw&s",
     "featured": true,
     "vendorId": 2
   }
